@@ -16,3 +16,8 @@ Day3:
 want to try to solve the virtualbox issue ; otherwise I need to switch to another series of videos 
 
 try: https://askubuntu.com/questions/914997/install-virtualbox-while-keeping-secure-boot
+
+
+Tried https://stegard.net/2016/10/virtualbox-secure-boot-ubuntu-fail/ and it worked!!!
+
+However, I decide to switch to another uploader cause the previous one is a little bit out of date
