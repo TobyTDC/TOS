@@ -14,3 +14,5 @@ Started following a uploader on youtube , installed virtualbox and took a whole 
 Day3:
 
 want to try to solve the virtualbox issue ; otherwise I need to switch to another series of videos 
+
+try: https://askubuntu.com/questions/914997/install-virtualbox-while-keeping-secure-boot
