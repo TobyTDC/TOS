@@ -20,4 +20,10 @@ try: https://askubuntu.com/questions/914997/install-virtualbox-while-keeping-sec
 
 Tried https://stegard.net/2016/10/virtualbox-secure-boot-ubuntu-fail/ and it worked!!!
 
-However, I decide to switch to another uploader cause the previous one is a little bit out of date
+
+
+Day4:
+
+Switched OS to LinuxMint 17.1(32-bit), redid everything and figured out there something wrong with grub.cfg
+
+Made virtualbox working without 3D accerleration 
